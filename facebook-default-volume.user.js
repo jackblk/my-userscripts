@@ -1,5 +1,6 @@
 // ==UserScript==
 // @name         Facebook video default volume
+// @author       https://github.com/jackblk/
 // @namespace    http://tampermonkey.net/
 // @version      1.0
 // @description  Set default volume for all video player in Facebook
