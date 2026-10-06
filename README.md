@@ -4,6 +4,8 @@ A collection of my userscripts.
 
 Facebook will set 100% volume for every god damn video and they don't remember the volume of what user sets. BLASTING YOUR EARS OFF EVERY GOD DAMN TIME.
 
+This script remembers your volume and mute state and applies it to every video and reel.
+
 [Install](https://github.com/jackblk/my-userscripts/raw/main/facebook-default-volume.user.js)
 
 ### Strip tracking params
